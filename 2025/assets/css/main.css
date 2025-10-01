@@ -1,0 +1,78 @@
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+
+:root {
+  /* --primary-colors --*/
+  --white-ish:#F9F7F7;
+  --light-gray: #DBE2EF;
+  --bluish-gray: #d1d4d9e3;
+  --green-light:#1abc9c;
+  --blue-medium: #0077b6;
+  --blue-medium-rgb: rgb(0, 119, 182);
+  --blue-dark:#0f4c75;
+  --green-dark:#004526;
+  --dark-b: #003566;
+  --gray-black: #415a77;
+  --darker-b:#1B262C;
+  --yellow-ai4scisci:#ecd166;
+
+  /* https://colorhunt.co/palette/f9f7f7dbe2ef3f72af112d4e */
+}
+
+
+.jumbotron{
+
+  /* background-image: url('/2025/assets/img/landing_page_image.png'); */
+  background: 
+  linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.4)),
+  url('/2025/assets/img/landing_page_image.png');
+  background-size: cover; 
+  background-position: center; 
+
+}
+
+
+
+#toTopBtn {
+  display: none;           /* Hidden by default */
+  position: fixed;         /* Stay in place */
+  bottom: 20px;            /* 20px from the bottom */
+  right: 20px;             /* 20px from the right */
+  z-index: 1030;           /* Above most Bootstrap elements */
+  background-color: var(--green-light);
+  border-color:   var(--green-dark);
+}
+
+#toTopBtn:hover{
+  background-color: var(--green-dark);
+  border-color:   var(--green-dark);
+  color: var(--green-light);
+}
+
+.jmbtrn-btn{
+  background-color: var(--green-light);
+  border-color: var(--green-dark);
+}
+
+.jmbtrn-btn:hover{
+  background-color: var(--green-dark);
+  border-color:   var(--green-dark)
+}
+
+/* #page-container {
+    position: relative;
+    min-height:93vh;
+  }
+  
+#content-wrap {
+    padding-bottom: 2.5rem; 
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;         
+    
+} */
