@@ -7,10 +7,11 @@
   --white-ish:#F9F7F7;
   --light-gray: #DBE2EF;
   --bluish-gray: #e4e9f1;
-  --green-light:teal;
+  --green-light:#1abc9c;
   --blue-medium: #0077b6;
   --blue-medium-rgb: rgb(0, 119, 182);
   --blue-dark:#0f4c75;
+  --green-dark:#004526;
   --dark-b: #003566;
   --gray-black: #415a77;
   --darker-b:#1B262C;
@@ -50,8 +51,32 @@ body {
 }
 
 .navbar-expand-lg{
-    font-size:1.2rem !important;
+    font-size:1.15rem !important;
 }
+
+/* On click (active) */
+/* .navbar .nav-link:active,
+.navbar .nav-link.active {
+  color: var(--green-light) !important;
+  background-color: transparent !important;
+} */
+
+/* On focus (keyboard or mouse click outline) */
+/* .navbar .nav-link:focus {
+  color: var(--green-light) !important;
+  background-color: transparent !important; 
+  outline: none !important;       
+  box-shadow: none !important;   
+} */
+
+/* On focus (keyboard or mouse click outline) */
+/* .navbar .nav-link:focus {
+  color: var(--green-light) !important;
+  background-color: transparent !important; 
+  outline: none !important;       
+  box-shadow: none !important;    
+} */
+
 
 
 /* buttons */
@@ -94,9 +119,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ::selection {
-  background: teal;
-  color: var(--light-gray); 
+  background: var(--green-light);
+  color: var(--white-ish); 
 }
+
+
 
 
 /* #page-container {
