@@ -57,7 +57,19 @@
 
 .jmbtrn-btn:hover{
   background-color: var(--green-dark);
-  border-color:   var(--green-dark)
+  border-color:   var(--green-dark);
+  color: var(--green-light) !important;
+}
+
+a:hover{
+  color: var(--green-dark) !important;
+  /*font-size: 1.05rem;*/
+}
+
+
+
+.nav-link:hover{
+  color: var(--green-light) !important;
 }
 
 /* #page-container {

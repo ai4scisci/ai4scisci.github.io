@@ -16,7 +16,7 @@ class Footer extends HTMLElement {
       <div class="row mt-3">
         <div class="col-12 col-md-6">
           <h2 class="mb-1 fw-bold">Contact</h2>
-          <p class="mb-0">Jian Wu, Ph.D.<br>
+          <p class="mb-0"><b>Jian Wu, Ph.D.</b><br>
             Associate Professor<br>
             Department of Computer Science<br>
             Old Dominion University<br>
@@ -40,7 +40,7 @@ class Footer extends HTMLElement {
 
       <div class="row">
       <div class="col-auto col-md-5 align-middle">
-        <p class="mb-0">© ${yearDisplay} AI4SciSci</p>
+        <p class="mb-0">© ${yearDisplay} <b>AI4SciSci</b></p>
       </div>
     </div>
   
