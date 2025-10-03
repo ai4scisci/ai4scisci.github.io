@@ -25,10 +25,12 @@
 
   /* background-image: url('/2025/assets/img/landing_page_image.png'); */
   background: 
-  linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.4)),
-  url('/2025/assets/img/landing_page_image.png');
+  linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+  url('/2025/assets/img/northern-illinois-university_1112.jpg');
   background-size: cover; 
   background-position: center; 
+  color: var(--white-ish);
+
 
 }
 
