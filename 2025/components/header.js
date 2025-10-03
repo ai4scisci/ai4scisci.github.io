@@ -39,7 +39,7 @@ class Header2025 extends HTMLElement {
               <a class="nav-link" href="#program-committee">Program Committee</a>
             </li>
             <li class="nav-item mr-2">
-              <a class="nav-link" href="#contacts">Contacts</a>
+              <a class="nav-link" href="#program-committee">Contacts</a>
             </li>
 
 
