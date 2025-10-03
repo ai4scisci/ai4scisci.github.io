@@ -47,7 +47,7 @@ this.innerHTML = `
         </div>
     <div class="row mt-4 px-md-3">
         <div class="col-auto col-md-5 align-middle">
-            <p class="mb-0">© ${startYear} <b>AI4SciSci</b> <span style="color:#6c757d;">&mdash; designed by RochanaRO</span></p>
+            <p class="mb-0">© ${startYear} <b>AI4SciSci</b> <span style="color:#6c757d;">&mdash; designed by <a class="" style="color:#6c757d;" href="https://rochanaro.github.io/" onmouseover="this.style.color='#6c757d';" onmouseout="this.style.color='#6c757d';"target="_blank" title="">RochanaRO</a></span></p>
         </div>
     </div>
     </div>
