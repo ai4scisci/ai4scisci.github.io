@@ -94,3 +94,28 @@ a:hover{
 #jmb-h2-jcdl:hover{
   color: var(--green-light) !important;
 }
+
+
+.btn-blue{
+    color: var(--white-ish) !important;
+    background-color: var(--green-light);
+    border-color:   var(--green-dark);
+}
+
+.btn-blue >a{
+    color: var(--white-ish) !important;
+    /*background-color: var(--green-light);
+    border-color:   var(--green-dark);*/
+}
+
+.btn-blue:hover{
+  background-color: var(--green-dark);
+  border-color:   var(--green-dark);
+  color: var(--green-light);
+}
+
+.btn-blue >a:hover{
+  background-color: var(--green-dark);
+  border-color:   var(--green-dark);
+  color: var(--green-light) !important;;
+}
