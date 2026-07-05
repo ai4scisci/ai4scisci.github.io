@@ -1,9 +1,9 @@
-class Footer2025 extends HTMLElement {
+class Footer2026 extends HTMLElement {
 constructor() {
 super();
 }
 connectedCallback() {
-const startYear = 2025;
+const startYear = 2026;
 const currentYear = new Date().getFullYear();
 const yearDisplay = startYear === currentYear ? `${startYear}` : `${startYear}–${currentYear}`;
 this.innerHTML = `
@@ -37,9 +37,9 @@ this.innerHTML = `
                         style="height:50px;">
                     </a>
                     <!-- JCDL -->
-                    <a class="ml-5" href="https://2025.jcdl.org/" target="_blank" title="JCDL 2025">
-                    <img src="/2025/assets/img/jcdl2025.jpg"
-                        alt="JCDL 2025 Homepage"
+                    <a class="ml-5" href="https://2026.jcdl.org/" target="_blank" title="JCDL 2026" style="background-color: black; display: inline-block;">
+                    <img src="/2026/assets/img/jcdl2026.png"
+                        alt="JCDL 2026 Homepage"
                         style="height:50px;">
                     </a>
                 </div>
@@ -57,7 +57,7 @@ this.innerHTML = `
 `;
 }
 }
-customElements.define('footer-component-2025', Footer2025);
+customElements.define('footer-component-2026', Footer2026);
 
 // template
 

@@ -28,6 +28,7 @@ class Header extends HTMLElement {
                 Conferences
               </a>
               <div class="dropdown-menu">
+                <a class="dropdown-item" href="/2026/">AI4SciSci 2026</a>
                 <a class="dropdown-item" href="/2025/">AI4SciSci 2025</a>
                 <a class="dropdown-item" href="/2023/">AI4SciSci 2023</a>
               </div>
