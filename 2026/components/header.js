@@ -1,4 +1,4 @@
-class Header2025 extends HTMLElement {
+class Header2026 extends HTMLElement {
   constructor() {
     super();
   }
@@ -9,7 +9,7 @@ class Header2025 extends HTMLElement {
         <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
 
         <div class="container-fluid">
-        <a class="navbar-brand" href="/2025/">
+        <a class="navbar-brand" href="/2026/">
         <img src="/assets/img/AI4SciSci_v2.png" width="" height="50" class="d-inline-block align-top" alt="">
         </a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -52,7 +52,7 @@ class Header2025 extends HTMLElement {
   }
 }
 
-customElements.define('header-component-2025', Header2025);
+customElements.define('header-component-2026', Header2026);
 
 {/* <li class="nav-item dropdown">
 <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
