@@ -21,7 +21,6 @@ class Footer extends HTMLElement {
             Department of Computer Science<br>
             Old Dominion University<br>
             3202 ECS Building, Norfolk, VA, 23529<br>
-            Tel: 757-683-7753<br>
             E-mail: <a href="mailto:jwu@cs.odu.edu">jwu@cs.odu.edu</a><br>
           </p>
         </div>

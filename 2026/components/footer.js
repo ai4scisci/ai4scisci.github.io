@@ -16,7 +16,6 @@ this.innerHTML = `
                 <h4 class="mb-1 fw-bold">Contact</h4>
                 <p class="mb-0"><b>Jian Wu, Ph.D.</b><br>
                     Old Dominion University<br>
-                    Tel: 757-683-7753<br>
                     E-mail: <a href="mailto:jwu@cs.odu.edu">jwu@cs.odu.edu</a><br>
                 </p>
             </div>

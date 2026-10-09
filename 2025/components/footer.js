@@ -16,7 +16,6 @@ this.innerHTML = `
                 <h4 class="mb-1 fw-bold">Contact</h4>
                 <p class="mb-0"><b>Jian Wu, Ph.D.</b><br>
                     Old Dominion University<br>
-                    Tel: 757-683-7753<br>
                     E-mail: <a href="mailto:jwu@cs.odu.edu">jwu@cs.odu.edu</a><br>
                 </p>
             </div>
@@ -69,7 +68,7 @@ Contact</h2>
     Department of Computer Science<br>
     Old Dominion University<br>
     3202 ECS Building, Norfolk, VA, 23529<br>
-    Tel: 757-683-7753<br>
+    
     E-mail: <a href="mailto:jwu@cs.odu.edu">jwu@cs.odu.edu</a><br>
 </p>
 */}
@@ -81,7 +80,7 @@ Contact</h2>
         Department of Computer Science<br>
         Old Dominion University<br>
         3108 ECS Building, Norfolk, VA 23529<br>
-        Tel: 757-683-7821<br>
+        
         E-mail: <a href="mailto:yihe@cs.odu.edu">yihe@cs.odu.edu</a><br>
         Webpage: <a href="#">Homepage</a>
     </p>
